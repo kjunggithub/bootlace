@@ -1,4 +1,3 @@
-bootlace
-========
+## Bootlace
 
-Bootstrap 3 boilerplate
+A ready to use html5 boilerplate including bootstrap 3.
