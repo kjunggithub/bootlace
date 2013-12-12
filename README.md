@@ -26,7 +26,10 @@ Install all the npm dependencies by running
 npm install
 ```
 ## Grunt Workflow
-### To `build`:
+### Build
+```shell
+grunt build
+```
 
 The `build` task process performs the following:
 * Performs JS linting
@@ -35,19 +38,18 @@ The `build` task process performs the following:
 * adds CSS vendor prefixes
 * Minifies all images
 
+### Watch
 ```shell
-grunt build
+grunt watch
 ```
-
 The `watch` task watches the following:
 * /Index.html
 * /sass/styles.scss
 * /js/init.js
 
-### To `watch`:
-
+### Deploy
 ```shell
-grunt watch
+grunt deploy
 ```
 The `deploy` task performs the following:
 * Performs JS linting
@@ -57,9 +59,3 @@ The `deploy` task performs the following:
 * Minifies all images
 * Cleans all uneeded files
 * SFTP files to production (to do)
-
-### To `deploy`:
-
-```shell
-grunt deploy
-```
