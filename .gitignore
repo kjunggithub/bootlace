@@ -1,6 +1,7 @@
 .DS_Store
 ; *.sublime-project
 ; *.sublime-workspace
+/assets/js/app.js
 /assets/release
 /.sass-cache/
 /node_modules/
