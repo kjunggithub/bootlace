@@ -26,18 +26,20 @@ html, body {
 .o-desktop {
   display:block;
 }
-/* sass variables  */
 
 /* body */
 body {
   background:#ffffff;
 }
 
-
 /* mobile */
 @media only screen and (max-width : 640px) {
   .x-mobile, .o-desktop {
     display:none;
+  }
+
+  .container h1 {
+    color: blue;
   }
 }
 
