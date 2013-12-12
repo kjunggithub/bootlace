@@ -22,7 +22,6 @@ module.exports = function(grunt) {
     },
     cssmin: {
       options: {
-        keepSpecialComments: true,
       },
       build: {
         src: 'assets/css/*.css',
