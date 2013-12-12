@@ -1,5 +1,5 @@
 # Bootlace
-Bootlace is a HTML5/CSS3 boilerplate with Twtitter's Bootstrap3 and Font Awesome 4 built in. Bootlace also incorporates Grunt for easy developing and deployment processes.
+Bootlace is a HTML5/CSS3 boilerplate with Twtitter's Bootstrap 3 and Font Awesome 4 built in. Bootlace also incorporates Grunt for easy developing and deployment tasks.
 
 ## Requirements
 * Ruby
