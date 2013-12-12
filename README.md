@@ -33,7 +33,7 @@ Build for the first time by running
 
 ```shell
 grunt build
-```
+```
 
 ## Grunt Workflow
 ### Build
