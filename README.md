@@ -28,6 +28,13 @@ Install all the npm dependencies by running
 ```shell
 npm install
 ```
+
+Build for the first time by running
+
+```shell
+grunt build
+```
+
 ## Grunt Workflow
 ### Build
 ```shell
