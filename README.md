@@ -41,7 +41,7 @@ grunt build
 grunt build
 ```
 
-The `build` task process performs the following:
+The `build` task performs the following:
 * Performs JS linting
 * Minifies CSS and JS files
 * Concats CSS and JS files
