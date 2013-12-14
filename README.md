@@ -1,5 +1,5 @@
 # Bootlace
-Bootlace is a HTML5/CSS3 boilerplate with Twtitter's Bootstrap 3 and Font Awesome 4 built in. Bootlace also incorporates Grunt for easy developing and deployment tasks.
+Bootlace is a HTML5/CSS3 boilerplate with Twitter's Bootstrap 3 and Font Awesome 4 built in. Bootlace also incorporates Grunt for easy developing and deployment tasks.
 
 * Bootstrap v3.0.3
 * Font Awesome v4.0.3
